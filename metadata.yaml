@@ -1,0 +1,27 @@
+_repo: Castilho-e-Quental--Reflex-es-sobre-a-actual-quest-o-litteraria_34386
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Malheiro Dias, Augusto
+    alias: Dias, Augusto Malheiro
+    gutenberg_agent_id: '36991'
+    url: http://www.gutenberg.org/2009/agents/36991
+description: ''
+gutenberg_bookshelf: PT Política e Sociedade
+gutenberg_issued: '2010-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34386'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quental, Antero de, 1842-1891'
+- !lcc 'PQ'
+- !lcsh 'Castilho, Antonio Feliciano de, 1800-1875'
+title: 'Castilho e Quental: Reflexões sobre a actual questão litteraria'
+url: http://www.gutenberg.org/ebooks/34386
