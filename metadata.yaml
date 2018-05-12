@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36991'
     url: http://www.gutenberg.org/2009/agents/36991
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34386#Castilho-e-Quental--Reflex-es-sobre-a-actual-quest-o-litteraria
 gutenberg_bookshelf: PT Política e Sociedade
 gutenberg_issued: '2010-11-21'
 gutenberg_type: Text
